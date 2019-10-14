@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hanya Test</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_title">AYO SEKOLAH</string>
+
+    <string name="slide_1_desc">Lorem Ipsum adalah contoh teks atau dummy dalam industri</string>
+
+    <string name="slide_2_desc">Lorem Ipsum adalah contoh teks atau dummy dalam industri percetakan</string>
+
+    <string name="slide_3_desc">Lorem Ipsum adalah contoh teks atau dummy dalam industri percetakan</string>
+
+    <string name="slide_4_desc">Lorem Ipsum adalah contoh teks atau dummy dalam industri percetakan</string>
+
+    <string name="buttonLogin">Login</string>
+
+
+</resources>
